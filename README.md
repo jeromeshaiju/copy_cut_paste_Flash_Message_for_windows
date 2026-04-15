@@ -55,10 +55,10 @@ Because the app runs invisibly in the background, there are two quick ways to cl
 2. **Global Hotkey:** Press `Ctrl + Shift + Q` anywhere on your computer to instantly shut it down!
 
 > *(Example: Image to exit app 1)*  
-> ![Exit App 1](Screenshot4.png)
+> ![Exit App 1](screenshot4.png)
 
 > *(Example: Image to exit app 2)*  
-> ![Exit App 2](Screenshot5.png)
+> ![Exit App 2](screenshot5.png)
 
 ## 🛠️ Built With
 - Pure Win32 System API 
