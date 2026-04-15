@@ -49,6 +49,17 @@ If you want this utility to run permanently in the background every time you tur
 3. Press `Windows Key + R`, type exactly `shell:startup`, and hit Enter.
 4. Drag and drop your new Shortcut into the startup folder that opens.
 
+### How to Exit the App
+Because the app runs invisibly in the background, there are two quick ways to close it:
+1. **System Tray:** Notice the custom icon in your bottom-right taskbar (next to Wi-Fi/Audio). Right-click it and click **Exit Application**.
+2. **Global Hotkey:** Press `Ctrl + Shift + Q` anywhere on your computer to instantly shut it down!
+
+> *(Example: Image to exit app 1)*  
+> ![Exit App 1](Screenshot4.png)
+
+> *(Example: Image to exit app 2)*  
+> ![Exit App 2](Screenshot5.png)
+
 ## 🛠️ Built With
 - Pure Win32 System API 
 - C++
