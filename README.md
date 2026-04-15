@@ -9,14 +9,14 @@ When you trigger a clipboard action, a beautiful, non-intrusive floating notific
 > **Note:** Add your screenshots here before publishing!
 >
 > *(Example: Image of the "COPIED" notification)*  
-> `![Copied Notification](copy_cut_paste_Flash_Message_for_windows\Screenshot1.png)`
+> ![Copied Notification](copy_cut_paste_Flash_Message_for_windows/Screenshot1.png)
 > 
 > *(Example: Image of the "PASTED" notification)*  
-> `![Pasted Notification](copy_cut_paste_Flash_Message_for_windows\Screenshot2.png)`
+> ![Pasted Notification](copy_cut_paste_Flash_Message_for_windows/Screenshot2.png)
 
 
 > *(Example: Image of the "CUT" notification)*  
-> `![Pasted Notification](copy_cut_paste_Flash_Message_for_windows\Screenshot3.png)`
+> ![Pasted Notification](copy_cut_paste_Flash_Message_for_windows/Screenshot3.png)
 
 ## ✨ Features
 
