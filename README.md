@@ -6,7 +6,6 @@ When you trigger a clipboard action, a beautiful, non-intrusive floating notific
 
 ## 📸 Screenshots
 
-> **Note:** Add your screenshots here before publishing!
 >
 > *(Example: Image of the "COPIED" notification)*  
 > ![Copied Notification](Screenshot1.png)
